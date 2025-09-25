@@ -1,8 +1,12 @@
 # Collision Detection System
 
+<p align="justify">
+
 This project implements a **collision detection and warning system** based on the STM32F103C8T6 microcontroller.  
 The system measures distances using ultrasonic sensors, evaluates potential collision risks, and issues alerts via LEDs and a buzzer.  
 Additionally, all processed data is transmitted over the **CAN bus** using an MCP2551 transceiver for integration with other automotive systems.
+
+</p>
 
 ---
 
