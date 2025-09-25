@@ -56,10 +56,14 @@ Note: in /lib has a small library file for can bus. let you to download and impo
 
 How to add library in ArduinoIDE?
 
-Step1:<img width="935" height="460" alt="image" src="https://github.com/user-attachments/assets/5c8d1dea-0039-4d2e-960a-6528d86a70b2" />
+Step1: ArduinoIDE -> Sketch -> Include Library -> Add .ZIP Library
+
+<img width="560" height="560" alt="image" src="https://github.com/user-attachments/assets/5c8d1dea-0039-4d2e-960a-6528d86a70b2" />
 
 
-Step2 (select zip file): <img width="736" height="102" alt="image" src="https://github.com/user-attachments/assets/ac72b799-3f64-46e8-a3a8-660aa5f1173c" />
+Step2 (select zip file):
+
+<img width="560" height="102" alt="image" src="https://github.com/user-attachments/assets/ac72b799-3f64-46e8-a3a8-660aa5f1173c" />
 
 Step3: and wait 
  
@@ -83,12 +87,11 @@ Step3: and wait
 ---
 
 ## 📷 Project Images
-*(Replace with your actual images)*
 
 ### Hardware Setup
-<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/81023ccd-2d6b-4269-b37c-a41cdb7bfdd6" />
+<img width="560" height="560" alt="image" src="https://github.com/user-attachments/assets/81023ccd-2d6b-4269-b37c-a41cdb7bfdd6" />
 
 
 ### Software Testing
-<img width="685" height="372" alt="image" src="https://github.com/user-attachments/assets/7edf0383-636f-4830-82ea-abc735444d48" />
+<img width="560" height="560" alt="image" src="https://github.com/user-attachments/assets/7edf0383-636f-4830-82ea-abc735444d48" />
 
